@@ -1,0 +1,2 @@
+vid 1: Deployment of Deep Learning Model using Flask
+search keyword: Deploy Machine Learning Model on Soil Classification using Deep Learning
